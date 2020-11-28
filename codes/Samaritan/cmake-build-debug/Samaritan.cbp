@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Samaritan"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Samaritan">
+				<Option output="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/Samaritan" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/cmake-build-debug/Makefile&quot;  VERBOSE=1 Samaritan"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Samaritan/fast">
+				<Option output="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/Samaritan" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/cmake-build-debug/Makefile&quot;  VERBOSE=1 Samaritan/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/analyse/analyse.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/analyse/plot.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/config.txt">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/core/dominance.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/core/initialization.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/core/list.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/core/memory.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/core/population.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/core/print.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/core/rand.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/core/rank_sort.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/core/utility.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/core/vector.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/externals/IWFG/iwfg.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/externals/IWFG/iwfg.h">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/externals/IWFG/read.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/externals/WFG_1.15/read.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/externals/WFG_1.15/wfg.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/externals/WFG_1.15/wfg.h">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/header/analyse.h">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/header/dominance.h">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/header/global.h">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/header/indicators.h">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/header/initialization.h">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/header/memory.h">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/header/metaheuristics.h">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/header/population.h">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/header/print.h">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/header/problems.h">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/header/rand.h">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/header/rank_sort.h">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/header/reproduction.h">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/header/selection.h">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/header/utility.h">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/header/vector.h">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/indicators/gd.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/indicators/hv.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/indicators/igd.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/main.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/metaheuristics/ctaea.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/reproduction/crossover/crossover_moead.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/reproduction/crossover/crossover_nsga2.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/reproduction/crossover/crossover_spea2.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/reproduction/crossover/crossover_steadystate.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/reproduction/crossover/differential_evolution.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/reproduction/crossover/sbx.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/reproduction/mating/moead_mating.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/reproduction/mating/tournament_selection.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/reproduction/mutation/mutation_real.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/reproduction/mutation/polymut.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/selection/moead/fitness.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/selection/moead/update.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/selection/moead/utility.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/CDTLZ/C1DTLZ1.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/CDTLZ/C1DTLZ3.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/CDTLZ/C2DTLZ2.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/CDTLZ/C3DTLZ1.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/CDTLZ/C3DTLZ4.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/DCDTLZ/DC1DTLZ1.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/DCDTLZ/DC1DTLZ3.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/DCDTLZ/DC2DTLZ1.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/DCDTLZ/DC2DTLZ3.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/DCDTLZ/DC3DTLZ1.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/DCDTLZ/DC3DTLZ3.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/DTLZ/DTLZ1.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/DTLZ/DTLZ2.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/DTLZ/DTLZ3.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/DTLZ/DTLZ4.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/DTLZ/DTLZ5.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/DTLZ/DTLZ6.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/DTLZ/DTLZ7.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/UF/UF1.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/UF/UF10.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/UF/UF2.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/UF/UF3.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/UF/UF4.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/UF/UF5.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/UF/UF6.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/UF/UF7.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/UF/UF8.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/UF/UF9.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/WFG/WFG1.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/WFG/WFG2.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/WFG/WFG3.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/WFG/WFG4.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/WFG/WFG4x.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/WFG/WFG5.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/WFG/WFG6.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/WFG/WFG7.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/WFG/WFG8.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/WFG/WFG9.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/WFG/toolkit.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/WFG/toolkit.h">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/ZDT/ZDT1.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/ZDT/ZDT2.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/ZDT/ZDT3.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/ZDT/ZDT4.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/ZDT/ZDT6.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/testproblem/evaluation.c">
+			<Option target="Samaritan"/>
+		</Unit>
+		<Unit filename="/Users/kl406/Dropbox/Projects/Personal/homepage/jemdoc_mathjax-master/coda-group.github.io/code/Samaritan/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on COLA-Lab@Exeter</title>
+    <link>https://example.com/</link>
+    <description>Recent content in Home on COLA-Lab@Exeter</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>With ToC</title>
+      <link>https://example.com/docs/example/table-of-contents/with-toc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/example/table-of-contents/with-toc/</guid>
+      <description>Caput vino delphine in tamen vias #  Cognita laeva illo fracta #  Lorem markdownum pavent auras, surgit nunc cingentibus libet Laomedonque que est. Pastor An arbor filia foedat, ne fugit aliter, per. Helicona illas et callida neptem est Oresitrophos caput, dentibus est venit. Tenet reddite famuli praesentem fortibus, quaeque vis foret si frondes gelidos gravidae circumtulit inpulit armenta nativum.
+ Te at cruciabere vides rubentis manebo Maturuit in praetemptat ruborem ignara postquam habitasse Subitarum supplevit quoque fontesque venabula spretis modo Montis tot est mali quasque gravis Quinquennem domus arsit ipse Pellem turis pugnabant locavit  Natus quaerere #  Pectora et sine mulcere, coniuge dum tincta incurvae.</description>
+    </item>
+    
+    <item>
+      <title>Without ToC</title>
+      <link>https://example.com/docs/example/table-of-contents/without-toc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/example/table-of-contents/without-toc/</guid>
+      <description>At me ipso nepotibus nunc celebratior genus #  Tanto oblite #  Lorem markdownum pectora novis patenti igne sua opus aurae feras materiaque illic demersit imago et aristas questaque posset. Vomit quoque suo inhaesuro clara. Esse cumque, per referri triste. Ut exponit solisque communis in tendens vincetis agisque iamque huic bene ante vetat omina Thebae rates. Aeacus servat admonitu concidit, ad resimas vultus et rugas vultu dignamque Siphnon.
+Quam iugulum regia simulacra, plus meruit humo pecorumque haesit, ab discedunt dixit: ritu pharetramque.</description>
+    </item>
+    
+    <item>
+      <title>Creating a New Theme</title>
+      <link>https://example.com/posts/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/creating-a-new-theme/</guid>
+      <description>Introduction #  This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>Migrate to Hugo from Jekyll</title>
+      <link>https://example.com/posts/migrate-from-jekyll/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/migrate-from-jekyll/</guid>
+      <description>Move static content to static #  Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>(Hu)go Template Primer</title>
+      <link>https://example.com/posts/goisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/goisforlovers/</guid>
+      <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
+This document is a brief primer on using Go templates.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>https://example.com/posts/hugoisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/hugoisforlovers/</guid>
+      <description>Step 1. Install Hugo #  Go to Hugo releases and download the appropriate version for your OS and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at Install Hugo
+Step 2. Build the Docs #  Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/academicons/academicons-1.9.0/README/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/academicons/academicons-1.9.0/README/</guid>
+      <description>What is Academicons? #  Academicons is a specialist icon font for academics. It contains icons for websites and organisations related to academia that are often missing from mainstream font packages. It can be used by itself, but its primary purpose is to be used as a supplementary package alongside a larger icon set. Go here to view the full icon set along with instructions for their use.
+Requesting new icons #  New icons can be requested by creating an issue here.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/example/collapsed/3rd-level/4th-level/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/example/collapsed/3rd-level/4th-level/</guid>
+      <description>4th Level of Menu #  Caesorum illa tu sentit micat vestes papyriferi #  Inde aderam facti; Theseus vis de tauri illa peream. Oculos uberaque non regisque vobis cursuque, opus venit quam vulnera. Et maiora necemque, lege modo; gestanda nitidi, vero? Dum ne pectoraque testantur.
+Venasque repulsa Samos qui, exspectatum eram animosque hinc, aut manes, Assyrii. Cupiens auctoribus pariter rubet, profana magni super nocens. Vos ius sibilat inpar turba visae iusto!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/example/hidden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/example/hidden/</guid>
+      <description>This page is hidden in menu #  Quondam non pater est dignior ille Eurotas #  Latent te facies #  Lorem markdownum arma ignoscas vocavit quoque ille texit mandata mentis ultimus, frementes, qui in vel. Hippotades Peleus pennas conscia cuiquam Caeneus quas.
+ Pater demittere evincitque reddunt Maxime adhuc pressit huc Danaas quid freta Soror ego Luctus linguam saxa ultroque prior Tatiumque inquit Saepe liquitur subita superata dederat Anius sudor  Cum honorum Latona #  O fallor in sustinui iussorum equidem.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/home/members/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/home/members/</guid>
+      <description>Members #   .grid-container { display: grid; grid-template-columns: 15% 35% 15% 35%; grid-gap: 15px; background-color: transparent; padding: 5px; align-content: left; }  Faculty #   Dr Ke Li
+UKRI FLF
+Principal Investigator
+University of Exeter
+        Research Staff(s) #   Dr Jiangjiao Xu
+Research Fellow
+07/2020 – present
+Interests: smart grid, TL, EMO, meta learning   PhD Student(s) #   Joseph Billingsly</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/home/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/home/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/home/vacancies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/home/vacancies/</guid>
+      <description>Vacancies #  We very much welcome and support applications from underrepresented groups and from people of all shapes, shades, and genders. If you are uncertain about your possible role in our team, please do not hesitate to get in touch with Ke Li.
+PhD There are multiple opportunities available at the University of Exeter to fund your PhD study.
+ China Scholarship Council (Chinese Students): The University of Exeter is proud to offer up to 15 full-time PhD scholarships in collaboration with the China Scholarship Council (CSC).</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/research/grants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/research/grants/</guid>
+      <description>Grants #  We are grateful to have been generously supported by or closely working with the following funding bodies and industrial partners.
+ Ongoing  EPSRC DTP Doctoral Prize: #***, Knowledge Representation in Transfer Optimisation System and Applications for Highly Configurable Software Systems, PI, £74,000, 2020-2024. UKRI Future Leaders Fellowship: #MR/S017062/1, Transfer Optimisation System for Adaptive Automated Nature-Inspired Optimisation, PI, £1,370,803 (UKRI Contribution: £1,096,643), 2019&amp;ndash;2023. EPSRC/British Telecommunications Industrial CASE Studentship: #EP/P51049X/1, Dynamic Resource Management and Optimization for SLA Guarantees in Hyperconverged Communication Infrastructures, Co-I (with PI: Prof.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/research/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/research/projects/</guid>
+      <description>Projects #  Under construction  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/research/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/research/publications/</guid>
+      <description>Publications #   hr.dashed { border-top: 1px dashed #bbb; } .grid-container { display: grid; grid-template-columns: 40% 60%; grid-gap: 5px; background-color: transparent; padding: 5px; }   The copyrights of published papers are transferred to publishers. Misuse of any material posted here may result in plagiarism. means equal contribution. + means student under my supervision. * means equal contribution   View by year #   ....  2020  2019  2018  2017  2016  2015  2014  2013   2012  2011  2010  2009  Featured publications #   MOEA/D: decomposition-based EMO MCDM: preference learning and decision-making CO: constrained optimization SE: software engineering   MOEA/D  Stable Matching Based Selection in Evolutionary Multiobjective Optimization</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/research/publications_year/2009/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/research/publications_year/2009/</guid>
+      <description>Publications #  2009 #  Conference #    A Novel Algorithm for Non-dominated Hypervolume-based Multiobjective Optimization
+Ke Li, Jinhua Zheng, Miqing Li, Cong Zhou, Hui Lv
+Proc. of 2009 IEEE International Conference on Systems, Mans and Cybernetics (SMC’09), IEEE Press: p. 5220–5226, December 2009.
+  10.1109/ICSMC.2009.5345983
+[ PDF] [ BiB]
+  An Spanning Tree Based Method For Pruning Non-Dominated Solutions in Multi- Objective Optimization Problems</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/research/publications_year/2010/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/research/publications_year/2010/</guid>
+      <description>Publications #  2010 #  Journal #   A Novel Slicing Based Algorithm to Calculate Hypervolume for Multi-Objective Optimization Problems
+Ke Li, Jinhua Zheng, Miqing Li, Cong Zhou, Hui Lv
+ICIC Express Letters: An International Journal of Research and Surveys, 4(4): 1113–1120, 2010.
+[ PDF] [ BiB]  Conference #    Enhancing Diversity for Average Ranking Method in Evolutionary Many-Objective Optimization
+Miqing Li, Jinhua Zheng, Ke Li, Qizhao Yuan, Ruimin Shen</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/research/publications_year/2011/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/research/publications_year/2011/</guid>
+      <description>Publications #  2011 #  Conference #    Combining Interpretable Fuzzy Rule-based Classifiers via Multi-Objective Hierarchical Evolutionary Algorithm
+Jingjing Cao, Hanli Wang, Sam Kwong, Ke Li
+Proc. of 2011 IEEE International Conference on Systems, Mans and Cybernetics (SMC’11), IEEE Press: p. 1771–1776, October 2011.
+  10.1109/ICSMC.2011.6083928
+[ PDF] [ BiB]
+  JGBL paradigm: A Novel Strategy to Enhance the Exploration Ability of NSGA-II
+Ke Li, Sam Kwong, Kim-Fung Man</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/research/publications_year/2012/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/research/publications_year/2012/</guid>
+      <description>Publications #  2012 #  Journal #   Achieving Balance Between Proximity and Diversity in Multi-objective Evolutionary Algorithm
+Ke Li, Sam Kwong, Jingjing Cao, Miqing Li, Jinhua Zheng, Ruimin Shen
+Information Sciences (INS), 182(1): 220–242, 2012.
+  10.1016/j.ins.2011.08.027
+[ PDF] [ BiB]  Conference #    Multi-Objective Differential Evolution with Self-Navigation
+Ke Li, Sam Kwong, Ran Wang, Jingjing Cao, Imre J. Rudas
+Proc. of 2012 IEEE International Conference on Systems, Mans and Cybernetics (SMC’12), IEEE Press: p.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/research/publications_year/2013/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/research/publications_year/2013/</guid>
+      <description>Publications #  2013 #  Journal #   Learning Paradigm Based on Jumping Genes: A General Framework for Enhancing Exploration in Evolutionary Multiobjective Optimization
+Ke Li, Sam Kwong, Ran Wang, Kit-Sang Tang, Kim-Fung Man
+Information Sciences (INS), 226: 1–22, 2013.
+  10.1016/j.ins.2012.11.002
+[ PDF] [ Code] [ BiB]  Conference #   Evolving Extreme Learning Machine Paradigm with Adaptive Operator Selection and Parameter Control
+Ke Li, Ran Wang, Sam Kwong, Jingjing Cao</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/research/publications_year/2014/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/research/publications_year/2014/</guid>
+      <description>Publications #  2014 #  Journal #    Stable Matching Based Selection in Evolutionary Multiobjective Optimization
+Ke Li, Qingfu Zhang, Sam Kwong, Miqing Li, Ran Wang
+IEEE Trans. Evolutionary Computation (TEVC). 18(6): 909–923, 2014.
+  10.1109/TEVC.2013.2293776
+[ PDF] [ Code] [ BiB]
+  Adaptive Operator Selection with Bandits for Multiobjective Evolutionary Algorithm Based on Decomposition
+Ke Li, Álvaro Fialho, Sam Kwong, Qingfu Zhang
+IEEE Trans. Evolutionary Computation (TEVC).</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/research/publications_year/2015/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/research/publications_year/2015/</guid>
+      <description>Publications #  2015 #  Journal #    An Evolutionary Many-Objective Optimization Algorithm Based on Dominance and Decomposition
+Ke Li, Kalyanmoy Deb, Qingfu Zhang, Sam Kwong
+IEEE Trans. Evolutionary Computation (TEVC), 19(5): 694–716, 2015.
+  10.1109/TEVC.2014.2373386
+[ PDF] [ Code] [ BiB]
+  Interrelationship-Based Selection for Decomposition Multiobjective Optimization
+Ke Li, Sam Kwong, Qingfu Zhang, Kalyanmoy Deb
+IEEE Trans. Cybernetics (TCYB), 45(10): 2076-2088, 2015
+  10.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/research/publications_year/2016/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/research/publications_year/2016/</guid>
+      <description>Publications #  2016 #  Journal #  Personalized Search for Social Media via Dominating Verbal Context
+Haoran Xie, Xiaodong Li, Tao Wang, Li Chen, Ke Li, Fu Lee Wang, Yi Cai, Qing Li, Huaqing Min
+Neurocomputing (NEUCOM). 172: 27–37, 2016.
+  10.1016/j.neucom.2014.12.109
+[ PDF] [ BiB]
+Conference #  Variable Interactions in Multi-Objective Optimization Problems
+Ke Li, Mohammad Nabi Omidvar, Kalyanmoy Deb, Xin Yao
+Proc. of the 14th International Conference on Parallel Problem Solving from Nature (PPSN’16), Springer, LNCS, Volume 9921: p.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/research/publications_year/2017/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/research/publications_year/2017/</guid>
+      <description>Publications #  2017 #  Journal #    Efficient Non-domination Level Update Method for Steady-State Evolutionary Multiobjective Optimization
+Ke Li, Kalyanmoy Deb, Qingfu Zhang, Qiang Zhang
+IEEE Trans. Cybernetics (TCYB), 47(9): 2838–2849, 2017.
+  10.1109/TCYB.2016.2621008
+[ PDF] [ Supplementary] [ Code] [ BiB]
+  Matching-Based Selection with Incomplete Lists for Decomposition Multi-Objective Optimization
+Mengyuan Wu+, Ke Li, Sam Kwong, Yu Zhou, Qingfu Zhang
+IEEE Trans. Evolutionary Computation (TEVC), 21(4): 554–568, 2017.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/research/publications_year/2018/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/research/publications_year/2018/</guid>
+      <description>Publications #  2018 #  Journal #    R-Metric: Evaluating the Performance of Preference-Based Evolutionary Multi-Objective Optimization Using Reference Points
+Ke Li, Kalyanmoy Deb, Xin Yao
+IEEE Trans. Evolutionary Computation (TEVC), 22(6): 821–835, 2018.
+   10.1109/TEVC.2017.2737781
+[ PDF] [ Supplementary] [ Code] [ BiB]
+  Integration of Preferences in Decomposition Multiobjective Optimization
+Ke Li*, Renzhi Chen*+, Geyong Min, Xin Yao
+IEEE Trans. Cybernetics (TCYB), 48(12): 3359–3370, 2018.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/research/publications_year/2019/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/research/publications_year/2019/</guid>
+      <description>Publications #  2019 #  Journal #    Learning to Decompose: A Paradigm for Decomposition-Based Multi-Objective Optimization
+Mengyuan Wu+, Ke Li, Sam Kwong, Qingfu Zhang, Jun Zhang
+IEEE Trans. Evolutionary Computation (TEVC), 23(3): 376–390, 2019.
+  10.1109/TEVC.2018.2865931
+[PDF] [Supplementary] [Code] [ BiB]
+  Interactive Decomposition Multi-Objective Optimization via Progressively Learned Value Functions
+Ke Li*, Renzhi Chen*+, Dragan Savic, Xin Yao
+IEEE Trans. Fuzzy Systems (TFS), 27(5): 845–860, 2019.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/research/publications_year/2020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/research/publications_year/2020/</guid>
+      <description>Publications #  2020 #  Journal #    Reference Point Based Multi-Objective Optimization of Reservoir Operation: a Comparison of Three Algorithms
+Rong Tang, Ke Li, Wei Ding, Yuntao Wang, Huicheng Zhou, Guangtao Fu
+Water Resources Management, 34: 1005–1020, 2020.
+  10.1007/s11269-020-02485-9
+[PDF] [BiB]
+  Evolutionary Many-Objective Optimization Based on Adversarial Decomposition
+Mengyuan Wu+, Ke Li, Sam Kwong, Qingfu Zhang
+IEEE Trans. Cybernetics (TCYB), 50(2): 753-764, 2020.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/research/publications_year/new/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/research/publications_year/new/</guid>
+      <description>Publications #  To appear #  Journal #   Does Preference Always Help? A Holistic Study on Preference-Based Evolutionary Multi-Objective Optimisation Using Reference Points
+Ke Li, Minhui Liao+, Kalyanmoy Deb, Geyong Min, Xin Yao
+IEEE Trans. Evolutionary Computation (TEVC)
+  10.1109/TEVC.2020.2987559
+[ PDF] [ Project] [BiB]  Conference #    An Improved Two-Archive Evolutionary Algorithm for Constrained Multi-Objective Optimization
+Xinyu Shan+, Ke Li Proc. of the 11th International Conference on Evolutionary Multi-Criterion Optimization (EMO&#39;21), March, 2021</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/research/readinggroup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/research/readinggroup/</guid>
+      <description>Reading Group #  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/shortcodes/buttons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/shortcodes/buttons/</guid>
+      <description>Buttons #  Buttons are styled links that can lead to local page or external link.
+Example #  {{&amp;lt; button relref=&amp;#34;/&amp;#34; [class=&amp;#34;...&amp;#34;] &amp;gt;}}Get Home{{&amp;lt; /button &amp;gt;}} {{&amp;lt; button href=&amp;#34;https://github.com/alex-shpak/hugo-book&amp;#34; &amp;gt;}}Contribute{{&amp;lt; /button &amp;gt;}}  Get Home  Contribute  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/shortcodes/columns/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/shortcodes/columns/</guid>
+      <description>Columns #  Columns help organize shorter pieces of content horizontally for readability.
+{{&amp;lt; columns &amp;gt;}} &amp;lt;!-- begin columns block --&amp;gt; # Left Content Lorem markdownum insigne... &amp;lt;---&amp;gt; &amp;lt;!-- magic separator, between columns --&amp;gt; # Mid Content Lorem markdownum insigne... &amp;lt;---&amp;gt; &amp;lt;!-- magic separator, between columns --&amp;gt; # Right Content Lorem markdownum insigne... {{&amp;lt; /columns &amp;gt;}} Example #  Left Content Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/shortcodes/details/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/shortcodes/details/</guid>
+      <description>Details #  Details shortcode is a helper for details html5 element. It is going to replace expand shortcode.
+Example #  {{&amp;lt; details &amp;#34;Title&amp;#34; [open] &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /details &amp;gt;}} {{&amp;lt; details title=&amp;#34;Title&amp;#34; open=true &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /details &amp;gt;}} Title Markdown content Lorem markdownum insigne&amp;hellip;   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/shortcodes/expand/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/shortcodes/expand/</guid>
+      <description>Expand #  Expand shortcode can help to decrease clutter on screen by hiding part of text. Expand content by clicking on it.
+Example #  Default #  {{&amp;lt; expand &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /expand &amp;gt;}}   Expand ↕  Markdown content Lorem markdownum insigne&amp;hellip;    With Custom Label #  {{&amp;lt; expand &amp;#34;Custom Label&amp;#34; &amp;#34;...&amp;#34; &amp;gt;}} ## Markdown content Lorem markdownum insigne.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/shortcodes/hints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/shortcodes/hints/</guid>
+      <description>Hints #  Hint shortcode can be used as hint/alerts/notification block.
+There are 3 colors to choose: info, warning and danger.
+{{&amp;lt; hint [info|warning|danger] &amp;gt;}} **Markdown content** Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa {{&amp;lt; /hint &amp;gt;}} Example #  Markdown content
+Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa  Markdown content</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/shortcodes/katex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/shortcodes/katex/</guid>
+      <description>KaTeX #  KaTeX shortcode let you render math typesetting in markdown document. See KaTeX
+Example #  {{&amp;lt; katex [display] [class=&amp;#34;text-center&amp;#34;] &amp;gt;}} f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi {{&amp;lt; /katex &amp;gt;}}     \[f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi\]    Display Mode Example #  Here is some inline example:  \(\pi(x)\)  , rendered in the same line. And below is display example, having display: block  \[f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi\]  Text continues here.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/shortcodes/mermaid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/shortcodes/mermaid/</guid>
+      <description>Mermaid Chart #   Mermaid is library for generating svg charts and diagrams from text.
+Example #  {{&amp;lt; mermaid [class=&amp;#34;text-center&amp;#34;]&amp;gt;}} sequenceDiagram Alice-&amp;gt;&amp;gt;Bob: Hello Bob, how are you? alt is sick Bob-&amp;gt;&amp;gt;Alice: Not so good :( else is well Bob-&amp;gt;&amp;gt;Alice: Feeling fresh like a daisy end opt Extra response Bob-&amp;gt;&amp;gt;Alice: Thanks for asking end {{&amp;lt; /mermaid &amp;gt;}}    mermaid.initialize({ &#34;flowchart&#34;: { &#34;useMaxWidth&#34;:true }, &#34;theme&#34;: &#34;default&#34; } ) sequenceDiagram Alice-Bob: Hello Bob, how are you?</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/shortcodes/section/page1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/shortcodes/section/page1/</guid>
+      <description>Page 1 #  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/shortcodes/section/page2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/shortcodes/section/page2/</guid>
+      <description>Page 2 #  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/shortcodes/tabs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/shortcodes/tabs/</guid>
+      <description>Tabs #  Tabs let you organize content by context, for example installation instructions for each supported platform.
+{{&amp;lt; tabs &amp;#34;uniqueid&amp;#34; &amp;gt;}} {{&amp;lt; tab &amp;#34;MacOS&amp;#34; &amp;gt;}} # MacOS Content {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab &amp;#34;Linux&amp;#34; &amp;gt;}} # Linux Content {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab &amp;#34;Windows&amp;#34; &amp;gt;}} # Windows Content {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; /tabs &amp;gt;}} Example #  MacOS MacOS This is tab MacOS content.
+Lorem markdownum insigne. Olympo signis Delphis!</description>
+    </item>
+    
+  </channel>
+</rss>

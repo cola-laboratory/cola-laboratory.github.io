@@ -1,0 +1,12 @@
+algorithm_name: CTAEA
+test_problem: DC3DTLZ3
+problem_param:
+number_variable: 12
+number_objective: 3
+popSize: 91
+max_evaluation: 91000
+runtime_output: 1
+output_interval: 10
+run_index_begin: 1
+run_index_end: 1
+analyse: FUN
