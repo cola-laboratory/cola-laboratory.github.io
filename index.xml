@@ -345,14 +345,13 @@ IEEE Trans. Fuzzy Systems (TFS), 27(5): 845–860, 2019.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/docs/research/publications_year/2020/</guid>
-      <description>Publications #  2020 #  Journal #    Reference Point Based Multi-Objective Optimization of Reservoir Operation: a Comparison of Three Algorithms
-Rong Tang, Ke Li, Wei Ding, Yuntao Wang, Huicheng Zhou, Guangtao Fu
-Water Resources Management, 34: 1005–1020, 2020.
-  10.1007/s11269-020-02485-9
-[PDF] [BiB]
-  Evolutionary Many-Objective Optimization Based on Adversarial Decomposition
-Mengyuan Wu+, Ke Li, Sam Kwong, Qingfu Zhang
-IEEE Trans. Cybernetics (TCYB), 50(2): 753-764, 2020.</description>
+      <description>Publications #  2020 #  Journal #    Does Preference Always Help? A Holistic Study on Preference-Based Evolutionary Multi-Objective Optimisation Using Reference Points
+Ke Li, Minhui Liao+, Kalyanmoy Deb, Geyong Min, Xin Yao
+IEEE Trans. Evolutionary Computation (TEVC), 24(6): 1078-1096, 2020.
+  10.1109/TEVC.2020.2987559
+[ PDF] [ Project] [BiB]
+  Reference Point Based Multi-Objective Optimization of Reservoir Operation: a Comparison of Three Algorithms
+Rong Tang, Ke Li, Wei Ding, Yuntao Wang, Huicheng Zhou, Guangtao Fu</description>
     </item>
     
     <item>
@@ -361,12 +360,14 @@ IEEE Trans. Cybernetics (TCYB), 50(2): 753-764, 2020.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/docs/research/publications_year/new/</guid>
-      <description>Publications #  To appear #  Journal #   Does Preference Always Help? A Holistic Study on Preference-Based Evolutionary Multi-Objective Optimisation Using Reference Points
-Ke Li, Minhui Liao+, Kalyanmoy Deb, Geyong Min, Xin Yao
-IEEE Trans. Evolutionary Computation (TEVC)
-  10.1109/TEVC.2020.2987559
-[ PDF] [ Project] [BiB]  Conference #    An Improved Two-Archive Evolutionary Algorithm for Constrained Multi-Objective Optimization
-Xinyu Shan+, Ke Li Proc. of the 11th International Conference on Evolutionary Multi-Criterion Optimization (EMO&#39;21), March, 2021</description>
+      <description>Publications #  To appear #  Journal #   Bayesian Network Based Label Correlation Analysis For Multi-label Classifier Chain
+Ran Wang, Suhe Ye, Ke Li, Sam Kwong
+Information Sciences
+[PDF] [BiB]  Conference #    An Improved Two-Archive Evolutionary Algorithm for Constrained Multi-Objective Optimization
+Xinyu Shan+, Ke Li
+Proc. of the 11th International Conference on Evolutionary Multi-Criterion Optimization (EMO&#39;21), March, 2021
+[PDF] [BiB]
+  Multi-Objective Reinforcement Learning based Multi-Microgrid System Optimisation Problem</description>
     </item>
     
     <item>
