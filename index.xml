@@ -117,15 +117,6 @@ Interests: smart grid, TL, EMO, meta learning   PhD Student(s) #   Joseph Billin
     
     <item>
       <title></title>
-      <link>https://example.com/docs/home/news/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/docs/home/news/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://example.com/docs/home/vacancies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -478,6 +469,16 @@ Example #  {{&amp;lt; mermaid [class=&amp;#34;text-center&amp;#34;]&amp;gt;}} se
       <description>Tabs #  Tabs let you organize content by context, for example installation instructions for each supported platform.
 {{&amp;lt; tabs &amp;#34;uniqueid&amp;#34; &amp;gt;}} {{&amp;lt; tab &amp;#34;MacOS&amp;#34; &amp;gt;}} # MacOS Content {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab &amp;#34;Linux&amp;#34; &amp;gt;}} # Linux Content {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab &amp;#34;Windows&amp;#34; &amp;gt;}} # Windows Content {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; /tabs &amp;gt;}} Example #  MacOS MacOS This is tab MacOS content.
 Lorem markdownum insigne. Olympo signis Delphis!</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://example.com/docs/home/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/home/news/</guid>
+      <description>News Archive #  2020 #  Dec   Our paper on Bayesian Network Based Label Correlation Analysis For Multi-label Classifier Chain has been accepted for publication in Information Sciences. Congratulations to my collaborators! Dec 8
+  There are multiple openings in our lab for PhD students 2021 entry. The studentships are available for both UK/EU and international students. Please have a look at vacancies and feel free to contact with me for more details.</description>
     </item>
     
   </channel>
