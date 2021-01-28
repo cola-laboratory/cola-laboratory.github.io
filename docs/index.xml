@@ -279,10 +279,10 @@ Proc. of the 11th International Conference on Evolutionary Multi-Criterion Optim
     
     <item>
       <title>IEEE DTEC</title>
-      <link>https://example.com/docs/research/dtec/</link>
+      <link>https://example.com/docs/misc/dtec/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/research/dtec/</guid>
+      <guid>https://example.com/docs/misc/dtec/</guid>
       <description>IEEE CIS Task Force 12 #  Task Force on Decomposition-based Techniques in Evolutionary Computation Objectives #  As the name suggests, the basic idea of the decomposition-based technique is to transform the original complex problem into simplified subproblem(s) so as to facilitate the optimization. Decomposition-based techniques have been widely used for solving both single- and multi-objective optimization problems. More specifically, in single-objective optimization, especially for the large-scale scenarios, which consider a tremendous amount of decision variables, the decomposition-based technique contains three aspects: 1) analyzing and understanding the fitness landscape and modularity structure of the underlying problem; 2) decomposing the original complex problem into several loosely coupled or independent subproblems based on the learnt characteristics; 3) using a meta-heuristic to solve these subproblems in a sequential or concurrent manner.</description>
     </item>
     
