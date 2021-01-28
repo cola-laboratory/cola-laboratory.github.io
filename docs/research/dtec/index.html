@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html lang="en" dir=>
+
+<head>
+  <meta name="generator" content="Hugo 0.78.2" />
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="IEEE CIS Task Force 12 #  Task Force on Decomposition-based Techniques in Evolutionary Computation Objectives #  As the name suggests, the basic idea of the decomposition-based technique is to transform the original complex problem into simplified subproblem(s) so as to facilitate the optimization. Decomposition-based techniques have been widely used for solving both single- and multi-objective optimization problems. More specifically, in single-objective optimization, especially for the large-scale scenarios, which consider a tremendous amount of decision variables, the decomposition-based technique contains three aspects: 1) analyzing and understanding the fitness landscape and modularity structure of the underlying problem; 2) decomposing the original complex problem into several loosely coupled or independent subproblems based on the learnt characteristics; 3) using a meta-heuristic to solve these subproblems in a sequential or concurrent manner.">
+<meta name="theme-color" content="#FFFFFF"><meta property="og:title" content="IEEE DTEC" />
+<meta property="og:description" content="IEEE CIS Task Force 12 #  Task Force on Decomposition-based Techniques in Evolutionary Computation Objectives #  As the name suggests, the basic idea of the decomposition-based technique is to transform the original complex problem into simplified subproblem(s) so as to facilitate the optimization. Decomposition-based techniques have been widely used for solving both single- and multi-objective optimization problems. More specifically, in single-objective optimization, especially for the large-scale scenarios, which consider a tremendous amount of decision variables, the decomposition-based technique contains three aspects: 1) analyzing and understanding the fitness landscape and modularity structure of the underlying problem; 2) decomposing the original complex problem into several loosely coupled or independent subproblems based on the learnt characteristics; 3) using a meta-heuristic to solve these subproblems in a sequential or concurrent manner." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://example.com/docs/research/dtec/" />
+<meta property="article:modified_time" content="2021-01-28T11:06:53+00:00" />
+<title>IEEE DTEC | COLA-Lab@Exeter</title>
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" href="/favicon.png" type="image/x-icon">
+<link rel="stylesheet" href="/book.min.428975c520c56cabc79be8aba4cfc70458927679a16ee091d5110045d0c05c48.css" integrity="sha256-Qol1xSDFbKvHm&#43;irpM/HBFiSdnmhbuCR1REARdDAXEg=">
+<script defer src="/en.search.min.d5e600c6131287eb3ccdebec9b3489cb0109215eb5e3e5e8d535a349d56729bf.js" integrity="sha256-1eYAxhMSh&#43;s8zevsmzSJywEJIV614&#43;Xo1TWjSdVnKb8="></script>
+
+<script defer src="/sw.min.74a8bb07f0bee86d6bb9a2750f073f14d93c7e4512f28860370cfd879e9719b4.js" integrity="sha256-dKi7B/C&#43;6G1ruaJ1Dwc/FNk8fkUS8ohgNwz9h56XGbQ="></script>
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+
+  
+</head>
+
+<body dir=>
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      
+  <nav>
+<h2 class="book-brand">
+  <a href="/"><span>COLA-Lab@Exeter</span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  <ul>
+<li><strong>Home</strong>
+<ul>
+<li>
+  <a href="/docs/home/members/">Members</a></li>
+<li>
+  <a href="/docs/home/vacancies/">Vacancies</a></li>
+<li>
+  <a href="/docs/home/news/">News</a></li>
+</ul>
+</li>
+<li><strong>Research</strong>
+<ul>
+<li>
+  <a href="/docs/research/publications/">Publications</a></li>
+<li>
+  <a href="/docs/research/projects/">Projects</a></li>
+<li>
+  <a href="/docs/research/grants/">Grants</a></li>
+<li>
+  <a href="/docs/research/readinggroup/">Reading Group</a></li>
+<li>
+  <a href="/docs/research/dtec/"class=active>ECTC TF</a>
+<br /></li>
+</ul>
+</li>
+</ul>
+
+
+
+
+
+
+  
+<ul>
+  
+  <li>
+    <a href="/posts/" >
+        Blog
+      </a>
+  </li>
+  
+</ul>
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var menu=document.querySelector("aside.book-menu nav");addEventListener("beforeunload",function(event){localStorage.setItem("menu.scrollTop",menu.scrollTop);});menu.scrollTop=localStorage.getItem("menu.scrollTop");})();</script>
+
+
+ 
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  <strong>IEEE DTEC</strong>
+
+  <label for="toc-control">
+    
+    <img src="/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden clearfix">
+    
+  <nav id="TableOfContents">
+  <ul>
+    <li><a href="#ieee-cis-task-force-12">IEEE CIS Task Force 12</a>
+      <ul>
+        <li><a href="#objectives">Objectives</a></li>
+        <li><a href="#anticipated-interests">Anticipated Interests</a></li>
+        <li><a href="#on-going-activities">On-Going Activities</a>
+          <ul>
+            <li><a href="#inspast-activitiesins"><ins>Past Activities</ins></a></li>
+            <li><a href="#insresourcesins"><ins>Resources</ins></a></li>
+          </ul>
+        </li>
+        <li><a href="#chairs">Chairs</a></li>
+        <li><a href="#members">Members</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+
+  </aside>
+  
+ 
+      </header>
+
+      
+      
+  <article class="markdown"><h1 id="ieee-cis-task-force-12">
+  IEEE CIS Task Force 12
+  <a class="anchor" href="#ieee-cis-task-force-12">#</a>
+</h1>
+<center><p style="font-size:25px"><b>Task Force on Decomposition-based Techniques in Evolutionary Computation</b></center>
+<h2 id="objectives">
+  Objectives
+  <a class="anchor" href="#objectives">#</a>
+</h2>
+<p>As the name suggests, the basic idea of the decomposition-based technique is to transform the original complex problem into simplified subproblem(s) so as to facilitate the optimization. Decomposition-based techniques have been widely used for solving both single- and multi-objective optimization problems. More specifically, in single-objective optimization, especially for the large-scale scenarios, which consider a tremendous amount of decision variables, the decomposition-based technique contains three aspects: 1) analyzing and understanding the fitness landscape and modularity structure of the underlying problem; 2) decomposing the original complex problem into several loosely coupled or independent subproblems based on the learnt characteristics; 3) using a meta-heuristic to solve these subproblems in a sequential or concurrent manner. As for multi-objective optimization, the decomposition means to decompose the original multi-objective optimization problem into a number of single-objective optimization sub-problems (or simple multi-objective optimization problems) and then uses a meta-heuristic to optimize these sub-problems simultaneously and collaboratively. In this big data era, the decomposition-based techniques used for both single- and multi-objective optimization can be sythesized to address the challenges posed by the curse of dimensionality, i.e., many objectives and large scale variables.</p>
+<p>The key objective of this task force it to generalize the decomposition-based idea and to promote its related research, including its development, education and understanding of its sub topic areas.</p>
+<p>The main objectives of the task force can be summarized as follows:</p>
+<ul>
+<li>create an active and healthy community to promote theme areas of decomposition-based techniques</li>
+<li>make student, researchers, end-users, developers, and consultants aware of the state-of-the-art</li>
+<li>promote the use of decomposition-based methodologies/techniques and tools</li>
+<li>organize conferences/workshop with IEEE CIS Technical Co-Sponsorship</li>
+<li>organize tutorials, workshops and special sessions</li>
+<li>launch edited volumes, books, and special issues in journals</li>
+</ul>
+<h2 id="anticipated-interests">
+  Anticipated Interests
+  <a class="anchor" href="#anticipated-interests">#</a>
+</h2>
+<p>This task force will focus on all aspects, including theory, practice and applications, of the decomposition-based technique in evolutionary computation for solving both single-, multi- and many-objective optimization problems. Topics of interest including but are not limited to the following:</p>
+<ul>
+<li>Design of novel weight vector generation methods</li>
+<li>Development of new decomposition methods</li>
+<li>Design of novel computational resource allocation strategies</li>
+<li>Integration of new reproduction operators</li>
+<li>Investigation of novel mating selection and replacement procedures</li>
+<li>Understanding of the relationship between subproblems and solutions</li>
+<li>Development of novel decomposition-based MOEAs</li>
+<li>Hybridization of dominance- and decomposition-based approaches</li>
+<li>Incorporation of user-preferences in decomposition-based MOEAs</li>
+<li>Extension to many-objective optimization problems</li>
+<li>Extension to constrained multi- and many-objective optimization problems</li>
+<li>Design of novel methods to analyze and understand the modularity structure</li>
+<li>Design of novel cooperative coevolution for large-scale optimization problems</li>
+<li>Theoretical analysis of the decomposition-based methods</li>
+</ul>
+<h2 id="on-going-activities">
+  On-Going Activities
+  <a class="anchor" href="#on-going-activities">#</a>
+</h2>
+<ul>
+<li><strong>Special session</strong> on 
+  <a href="https://sites.google.com/view/ademo-sessions/ademo2021">Advances in Decomposition-based Evolutionary Multi-­objective Optimization</a>, at the 2021 IEEE Congress on Computational Intelligence (IEEE CEC 2021), organized by Saúl Zapotecas-Martínez, Bilel Derbel, Ke Li and Qingfu Zhang.</li>
+<li><strong>Workshop</strong> on 
+  <a href="https://sites.google.com/view/dteo/">Decomposition Techniques in Evolutionary Optimization (DTEO)</a>, at the 2021 Genetic and Evolutionary Computation Conference (GECCO 2021). The deadline is February 4, 2021 Please consider submitting your best work to this workshop and see you in Cancun!</li>
+<li><strong>Tutorial</strong> on 
+  <a href="https://gecco-2021.sigevo.org/index.html/Tutorials">Decomposition Multi-Objective Optimization: Current Developments and Future Opportunities</a>, at the 2021 Genetic and Evolutionary Computation Conference (GECCO 2021), organised by Ke Li and Qingfu Zhang.</li>
+</ul>
+<h3 id="inspast-activitiesins">
+  <ins>Past Activities</ins>
+  <a class="anchor" href="#inspast-activitiesins">#</a>
+</h3>
+<ul>
+<li><strong>Special session</strong> on 
+  <a href="https://sites.google.com/view/ademo-home/accueil">Advances in Decomposition-­based Evolutionary Multi-­objective Optimization</a>, at the 2020 IEEE Congress on Computational Intelligence (IEEE WCCI 2020), organized by Saúl Zapotecas-Martínez, Bilel Derbel, Ke Li and Qingfu Zhang.</li>
+<li><strong>Workshop</strong> on 
+  <a href="https://sites.google.com/view/dteo/">Decomposition Techniques in Evolutionary Optimization (DTEO)</a>, at the 2020 Genetic and Evolutionary Computation Conference (GECCO 2020). The deadline is March 27, 2020 Please consider submitting your best work to this workshop and see you in Cancun!</li>
+<li><strong>Tutorial</strong> on 
+  <a href="https://gecco-2020.sigevo.org/index.html/Tutorials">Decomposition Multi-Objective Optimization: Current Developments and Future Opportunities</a>, at the 2020 Genetic and Evolutionary Computation Conference (GECCO 2020), organised by Ke Li and Qingfu Zhang.</li>
+<li><strong>Tutorial</strong> on 
+  <a href="https://ppsn2020.liacs.leidenuniv.nl/">Decomposition Multi-Objective Optimization: Current Developments and Future Opportunities</a>, at the 16th International Conference on Parallel Problem Solving from Nature (PPSN XVI), organised by Ke Li and Qingfu Zhang.</li>
+<li><strong>Special session</strong> on 
+  <a href="https://sites.google.com/view/ademo-home/accueil">Advances in Decomposition-­based Evolutionary Multi-­objective Optimization</a>, at the 2019 IEEE Congress on Evolutionary Computation (IEEE CEC 2019), organized by Saúl Zapotecas-Martínez, Bilel Derbel, Ke Li and Qingfu Zhang.</li>
+<li><strong>Workshop</strong> on 
+  <a href="https://sites.google.com/view/dteo/">Decomposition Techniques in Evolutionary Optimization (DTEO)</a>, at the 2019 Genetic and Evolutionary Computation Conference (GECCO 2019). The deadline is March 27, 2019. Please consider submitting your best work to this workshop and see you in Prague!</li>
+<li><strong>Tutorial</strong> on 
+  <a href="http://gecco-2019.sigevo.org/index.html/tiki-index.php?page=Tutorials">Decomposition Multi-Objective Optimization: Current Developments and Future Opportunities</a>, at the 2019 Genetic and Evolutionary Computation Conference (GECCO 2019), organised by Ke Li and Qingfu Zhang.</li>
+<li><strong>Workshop</strong> on 
+  <a href="https://sites.google.com/view/dteo/">Decomposition Techniques in Evolutionary Optimization (DTEO)</a>, at the 2018 Genetic and Evolutionary Computation Conference (GECCO 2018). The deadline is March 27, 2018. Please consider submitting your best work to this workshop and see you in Kyoto!</li>
+<li><strong>Tutorial</strong> on 
+  <a href="http://gecco-2018.sigevo.org/index.html/tiki-index.php?page=Tutorials">Decomposition Multi-Objective Optimization: Current Developments and Future Opportunities</a>, at the 2018 Genetic and Evolutionary Computation Conference (GECCO 2018), organised by Ke Li and Qingfu Zhang.</li>
+<li><strong>Special issue</strong> on 
+  <a href="https://www.journals.elsevier.com/swarm-and-evolutionary-computation/call-for-papers">Recent Advances in Evolutionary Multi-Objective Optimization</a>, at the Swarm and Evolutionary Computation journal, organized by Slim Bechikh and Carlos. A. Coello Coello. The deadline is <ins>May 30, 2017</ins>. You are highly encouraged to submit your best work here!</li>
+<li><strong>Special session</strong> on 
+  <a href="https://sites.google.com/site/decompositionbasedmoeas/">Advances in Multiobjective Evolutionary Algorithms based on Decomposition</a>, at the IEEE Congress on Evolutionary Computation (IEEE CEC 2017), organized by Anupam Trivedi, Dipti Srinivasan and Qingfu Zhang.</li>
+<li><strong>Tutorial</strong> on 
+  <a href="https://sites.google.com/view/tutorialmoeascec2017/home">Recent Advances in Multi-objective and Many-objective Evolutionary Algorithms</a>, at the IEEE Congress on Evolutionary Computation (IEEE CEC 2017), organized by Anupam Trivedi and Dipti Srinivasan.</li>
+<li><strong>Plenary Talk</strong> on 
+  <a href="https://coda-group.github.io/ieee-cis-dtec.html">Use of Traditional Optimization Methods in Multiobjective Evolutionary Computation</a>, at the IEEE Congress on Evolutionary Computation (IEEE CEC 2017), delivered by Qingfu Zhang.</li>
+<li><strong>Tutorial</strong> on 
+  <a href="http://cs.adelaide.edu.au/~acalci2017/SpecialSes-t1.html">Advances in Multi-objective Evolutionary Algorithms based on Decomposition</a>, at the Australasian Conference on Artificial Life and Computational Intelligence (ACALCI 2017), organized by Anupam Trivedi and Dipti Srinivasan.</li>
+<li><strong>Special session</strong> on 
+  <a href="https://sites.google.com/site/bilelderbelpro/home/ademo-cec16">Advances in Decomposition­based Evolutionary Multi­objective Optimization</a>, at the IEEE World Congress on Computational Intelligence (IEEE WCCI 2016), organized by Sa&rsquo;ul Zapotecas Mart&rsquo;inez, Bilel Derbel, Qingfu Zhang and Carlos A. Coello Coello.</li>
+<li><strong>Tutorial</strong> on 
+  <a href="http://sites.ieee.org/cec2015/tutorials/">Decomposition and Cooperative Coevolution Techniques for Large Scale Global Optimization</a>, at the IEEE Congress on Evolutionary Computation (IEEE CEC 2015), organized by Xiaodong Li.</li>
+<li><strong>Tutorial</strong> on 
+  <a href="http://dl.acm.org/citation.cfm?id=2605360">Decomposition and Cooperative Coevolution Techniques for Large Scale Global Optimization</a>, Genetic and Evolutionary Computation Conference (GECCO 2014), organized by Xiaodong Li.</li>
+</ul>
+<h3 id="insresourcesins">
+  <ins>Resources</ins>
+  <a class="anchor" href="#insresourcesins">#</a>
+</h3>
+<ul>
+<li>
+<p>Repository of the state-of-the-art developments of multi-objective evolutionary algorithm based on decomposition (MOEA/D) can be found from 
+  <a href="https://sites.google.com/view/moead/home">here</a>.</p>
+</li>
+<li>
+<p>Recent survey paper on the developments of MOEA/D:</p>
+<ul>
+<li>A. Trivedi, D. Srinivasan, K. Sanyal, A. Ghosh, 
+  <a href="https://ieeexplore.ieee.org/document/7564425">A Survey of Multiobjective Evolutionary Algorithms based on Decomposition</a>, IEEE Trans. on Evolutionary Computation, 21(3): 440-462, 2016.</li>
+<li>A. Santiago, H. Huacuja, B. Dorronsoro, J. Pecero, C. Santillan, J. Barbosa, J. Monterrubio, 
+  <a href="https://link.springer.com/chapter/10.1007/978-3-319-05170-3_31">A Survey of Decomposition Methods for Multi-objective Optimization</a>, Recent Advances on Hybrid Approaches for Designing Intelligent Systems, 453-465, 2014.</li>
+</ul>
+</li>
+</ul>
+<h2 id="chairs">
+  Chairs
+  <a class="anchor" href="#chairs">#</a>
+</h2>
+<ul>
+<li>
+  <a href="https://cola-laboratory.github.io/">Ke Li</a> (Chair), Department of Computer Science, University of Exeter, Exeter, UK.</li>
+<li>
+  <a href="http://www.cs.cityu.edu.hk/~qzhan7/index.html">Qingfu Zhang</a> (Vice Chair), Department of Computer Science, City University of Hong Kong, Hong Kong SAR, China.</li>
+<li>
+  <a href="https://scholar.google.com.sg/citations?user=WFpIByoAAAAJ&amp;hl=en">Anupam Trivedi</a> (Vice Chair), Department of Electrical &amp; Computer Engineering, National University of Singapore, Singapore.</li>
+</ul>
+<h2 id="members">
+  Members
+  <a class="anchor" href="#members">#</a>
+</h2>
+<ul>
+<li>
+  <a href="https://sites.google.com/site/slimbechikh/">Slim Bechikh</a>, University of Tunis, Tunisia.</li>
+<li>
+  <a href="http://emi.sustc.edu.cn/">Ran Cheng</a>, Southern University of Science and Technology, China.</li>
+<li>
+  <a href="https://www.egr.msu.edu/~kdeb/">Kalyanmoy Deb</a>, Michigan State University, USA.</li>
+<li>
+  <a href="https://sites.google.com/site/bilelderbelpro/">Bilel Derbel</a>, University of Lille, France.</li>
+<li>
+  <a href="http://www.cs.osakafu-u.ac.jp/~hisaoi/">Hisao Ishibuchi</a>, Osaka Prefecture University, Japan.</li>
+<li>
+  <a href="http://www.soft-computing.de/jin.html">Yaochu Jin</a>, University of Surrey, UK.</li>
+<li>
+  <a href="http://www.cs.cityu.edu.hk/~cssamk/research_group/">Sam Kwong</a>, City University of Hong Kong, Hong Kong SAR, China.</li>
+<li>
+  <a href="https://titan.csit.rmit.edu.au/~e46507/">Xiaodong Li</a>, RMIT University, Australia.</li>
+<li>
+  <a href="https://sites.google.com/site/arnaudliefooghe/">Arnaud Liefooghe</a>, University of Lille, France.</li>
+<li>
+  <a href="http://gr.xjtu.edu.cn/web/lihui10/1">Hui Li</a>, Xi&rsquo;an Jiaotong University, China.</li>
+<li>
+  <a href="http://www.cs.bham.ac.uk/~limx/index.html">Miqing Li</a>, University of Birmingham, UK.</li>
+<li>
+  <a href="http://www.is.ovgu.de/Team/Sanaz&#43;Mostaghim.html">Sanaz Mostaghim</a>, Otto von Guericke University of Magdeburg, Germany.</li>
+<li>
+  <a href="http://www.mdolab.net/Ray/index.html">Tapabrata Ray</a>, University of New South Wales, Australia.</li>
+<li>
+  <a href="https://www.ece.nus.edu.sg/gems/profhome.html">Dipti Srinivasan</a>, National University of Singapore, Singapore.</li>
+<li>
+  <a href="http://hs.hc.uec.ac.jp/index.php?%E4%BD%90%E8%97%A4%20%E5%AF%9B%E4%B9%8B">Hiroyuki Sato</a>, University of Electro-communications, Japan.</li>
+<li>
+  <a href="http://www.cityu.edu.hk/stfprofile/kaytan.htm">Kay Chen Tan</a>, City University of Hong Kong, Hong Kong SAR, China.</li>
+<li>
+  <a href="http://faculty.sustech.edu.cn/?tagid=tangk3&amp;orderby=date&amp;iscss=1&amp;snapid=1">Ke Tang</a>, Southern University of Science and Technology, China.</li>
+<li>
+  <a href="http://www.tech.dmu.ac.uk/~syang">Shengxiang Yang</a>, De Montfort University, UK.</li>
+<li>
+  <a href="https://faculty.ecnu.edu.cn/s/1949/t/22631/main.jspy">Aimin Zhou</a>, East China Normal University, China.</li>
+<li>
+  <a href="https://sites.google.com/view/szapotecas/home">Saúl Zapotecas</a>, Unidad Cuajimalpa, México.</li>
+</ul>
+</article>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <div class="flex flex-wrap justify-between">
+
+  
+
+
+  
+
+  
+
+  
+
+
+
+<div class="book-languages" tabindex="0" aria-haspopup="true">
+  <ul>
+    <li class="flex align-center">
+      <img src="/svg/translate.svg" class="book-icon" alt="Languages" />
+      English
+    </li> 
+  </ul>
+
+  <ul class="book-languages-list">
+    
+    <li class="active">
+      <a href="https://example.com/" class="flex align-center">
+        <img src="/svg/translate.svg" class="book-icon" alt="Languages" />
+        English
+      </a>
+    </li>
+    
+    <li class="">
+      <a href="https://example.com/ru/" class="flex align-center">
+        <img src="/svg/translate.svg" class="book-icon" alt="Languages" />
+        Russian
+      </a>
+    </li>
+    
+    <li class="">
+      <a href="https://example.com/zh/" class="flex align-center">
+        <img src="/svg/translate.svg" class="book-icon" alt="Languages" />
+        Chinese
+      </a>
+    </li>
+    
+  </ul>
+</div>
+
+
+
+
+  <div><a class="flex align-center" href="https://github.com/alex-shpak/hugo-book/commit/1785ee5aa284f459c9af698bba5cd771cf12050b" title='Last modified by JerryI00 | January 28, 2021' target="_blank" rel="noopener">
+      <img src="/svg/calendar.svg" class="book-icon" alt="Calendar" />
+      <span>January 28, 2021</span>
+    </a>
+  </div>
+
+
+
+  <div>
+    <a class="flex align-center" href="https://github.com/alex-shpak/hugo-book/edit/master/exampleSite/content/docs/research/dtec.md" target="_blank" rel="noopener">
+      <img src="/svg/edit.svg" class="book-icon" alt="Edit" />
+      <span>Edit this page</span>
+    </a>
+  </div>
+
+</div>
+
+ 
+        
+      </footer>
+
+      
+  
+  <div class="book-comments">
+
+</div>
+  
+ 
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      
+  <nav id="TableOfContents">
+  <ul>
+    <li><a href="#ieee-cis-task-force-12">IEEE CIS Task Force 12</a>
+      <ul>
+        <li><a href="#objectives">Objectives</a></li>
+        <li><a href="#anticipated-interests">Anticipated Interests</a></li>
+        <li><a href="#on-going-activities">On-Going Activities</a>
+          <ul>
+            <li><a href="#inspast-activitiesins"><ins>Past Activities</ins></a></li>
+            <li><a href="#insresourcesins"><ins>Resources</ins></a></li>
+          </ul>
+        </li>
+        <li><a href="#chairs">Chairs</a></li>
+        <li><a href="#members">Members</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+ 
+    </aside>
+    
+  </main>
+
+  
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
