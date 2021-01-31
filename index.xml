@@ -128,11 +128,27 @@ PhD There are multiple opportunities available at the University of Exeter to fu
     
     <item>
       <title></title>
+      <link>https://example.com/docs/misc/ddl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/misc/ddl/</guid>
+      <description>Deadlines #  Here are some important deadlines for the major conferences in artificial intelligence and machine learning (AI &amp;amp; ML), software engineering (SE) and evolutionary computation (EC) domains.
+AI &amp;amp; ML  IJCAI 2021: January 20, 2021 ICML 2021: February 4, 2021 UAI 2021: February 19, 2021 NIPS 2021: TBD ICLR 2022: TBD AAAI 2022: TBD AISTAS 2022: TBD  SE  ISSTA 2021: Jan 29, 2021 FSE 2021: February 25, 2021 ASE 2021: April 23, 2021 ICSE 2021: TBD  EC  GECCO 2021: February 4, 2021 CEC 2021: February 21, 2021 IJCNN: February 10, 2021 SMC 2021: April 5, 2021   </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://example.com/docs/research/archive_reading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/docs/research/archive_reading/</guid>
-      <description>Archive of Reading Group #  </description>
+      <description>Archive of Reading Group #  Agenda (Year 2020) #  Dec   Surrogate Assisted Evolutionary Algorithms, Fan Li Dec 27
+[slides]
+  RoboGrammar: Graph Grammar for Terrain-Optimized Robot Design, ACM Trans. Graphics. Jiahao Zhou Dec 20
+[paper] [slides]
+  Optimization, Fast and Slow: Optimally Switching Between Local and Bayesian Optimization, ICML 2018. Guozhao Wei Dec 13
+[paper] [slides]
+  Nov   Ordinal Regression with Multiple Output CNN for Age Estimation, CVPR 2016.</description>
     </item>
     
     <item>
