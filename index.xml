@@ -153,6 +153,15 @@ AI &amp;amp; ML  IJCAI 2021: January 20, 2021 ICML 2021: February 4, 2021 UAI 20
     
     <item>
       <title></title>
+      <link>https://example.com/docs/research/bk_publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/research/bk_publications/</guid>
+      <description>Publications #   hr.dashed { border-top: 1px dashed #bbb; } .grid-container { display: grid; grid-template-columns: 40% 60%; grid-gap: 5px; background-color: transparent; padding: 5px; }   The copyrights of published papers are transferred to publishers. Misuse of any material posted here may result in plagiarism. means equal contribution. + means student under my supervision. * means equal contribution   View by year #   ....  2020  2019  2018  2017  2016  2015  2014  2013   2012  2011  2010  2009  Featured publications #   MOEA/D: decomposition-based EMO MCDM: preference learning and decision-making CO: constrained optimization SE: software engineering   MOEA/D  Stable Matching Based Selection in Evolutionary Multiobjective Optimization</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://example.com/docs/research/grants/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -168,15 +177,6 @@ AI &amp;amp; ML  IJCAI 2021: January 20, 2021 ICML 2021: February 4, 2021 UAI 20
       
       <guid>https://example.com/docs/research/projects/</guid>
       <description>Projects #  Under construction  </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://example.com/docs/research/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/docs/research/publications/</guid>
-      <description>Publications #   hr.dashed { border-top: 1px dashed #bbb; } .grid-container { display: grid; grid-template-columns: 40% 60%; grid-gap: 5px; background-color: transparent; padding: 5px; }   The copyrights of published papers are transferred to publishers. Misuse of any material posted here may result in plagiarism. means equal contribution. + means student under my supervision. * means equal contribution   View by year #   ....  2020  2019  2018  2017  2016  2015  2014  2013   2012  2011  2010  2009  Featured publications #   MOEA/D: decomposition-based EMO MCDM: preference learning and decision-making CO: constrained optimization SE: software engineering   MOEA/D  Stable Matching Based Selection in Evolutionary Multiobjective Optimization</description>
     </item>
     
     <item>
@@ -505,6 +505,15 @@ Lorem markdownum insigne. Olympo signis Delphis!</description>
       <guid>https://example.com/docs/home/news/</guid>
       <description>News Archive #  2020 #  Dec   Our paper on Bayesian Network Based Label Correlation Analysis For Multi-label Classifier Chain has been accepted for publication in Information Sciences. Congratulations to my collaborators! Dec 8
   There are multiple openings in our lab for PhD students 2021 entry. The studentships are available for both UK/EU and international students. Please have a look at vacancies and feel free to contact with me for more details.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://example.com/docs/research/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/research/publications/</guid>
+      <description>Publications #      hr.dashed { border-top: 1px dashed #bbb; } .grid-container { display: grid; grid-template-columns: 40% 60%; grid-gap: 5px; background-color: transparent; padding: 5px; }   The copyrights of published papers are transferred to publishers. Misuse of any material posted here may result in plagiarism. means equal contribution. + means my current/previous student or visitor. * means equal contribution   To appear #    Vertical Distance-based Clonal Selection Mechanism for the Multiobjective Immune Algorithm</description>
     </item>
     
   </channel>
