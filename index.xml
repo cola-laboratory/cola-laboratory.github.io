@@ -117,27 +117,6 @@ Interests: smart grid, TL, EMO, meta learning    Dr Fan Li</description>
     
     <item>
       <title></title>
-      <link>https://example.com/docs/home/vacancies/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/docs/home/vacancies/</guid>
-      <description>Vacancies #  We very much welcome and support applications from underrepresented groups and from people of all shapes, shades, and genders. If you are uncertain about your possible role in our team, please do not hesitate to get in touch with Ke Li.
-PhD There are multiple opportunities available at the University of Exeter to fund your PhD study.
- China Scholarship Council (Chinese Students): The University of Exeter is proud to offer up to 50 full-time PhD scholarships in collaboration with the China Scholarship Council (CSC).</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://example.com/docs/misc/ddl/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/docs/misc/ddl/</guid>
-      <description>Deadlines #  Here are some important deadlines for the major conferences in artificial intelligence and machine learning (AI &amp;amp; ML), software engineering (SE) and evolutionary computation (EC) domains.
-AI &amp;amp; ML  IJCAI 2021: January 20, 2021 ICML 2021: February 4, 2021 UAI 2021: February 19, 2021 NIPS 2021: TBD AAAI 2022: TBD ICLR 2022: TBD AISTAS 2022: TBD SDM 2022: TBD  SE  ISSTA 2021: Jan 29, 2021 FSE 2021: February 25, 2021 ASE 2021: April 23, 2021 ICSE 2021: TBD  EC  GECCO 2021: February 4, 2021 IJCNN: February 10, 2021 CEC 2021: February 21, 2021 SMC 2021: April 5, 2021 FOGA 2021: May 7, 2021   </description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://example.com/docs/research/archive_reading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -380,15 +359,6 @@ Proc. of the 11th International Conference on Evolutionary Multi-Criterion Optim
     
     <item>
       <title></title>
-      <link>https://example.com/docs/research/readinggroup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/docs/research/readinggroup/</guid>
-      <description>Reading Group #  The paper reading group meets weekly during the semester to discuss papers. Participation is open to all, guests are always welcome; if you are interested in receiving invitations contact the organizer.   More about our reading group culture &amp;#43;  Each week we will discuss a different paper. The paper to discuss is announced about one week in advance by the organizer. All participants are expected to read the paper before the meeting.</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://example.com/docs/shortcodes/buttons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -489,6 +459,16 @@ Lorem markdownum insigne. Olympo signis Delphis!</description>
     </item>
     
     <item>
+      <title>Deadlines</title>
+      <link>https://example.com/docs/misc/ddl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/misc/ddl/</guid>
+      <description>Deadlines #  Here are some important deadlines for the major conferences in artificial intelligence and machine learning (AI &amp;amp; ML), software engineering (SE) and evolutionary computation (EC) domains.
+AI &amp;amp; ML  IJCAI 2021: January 20, 2021 ICML 2021: February 4, 2021 UAI 2021: February 19, 2021 NIPS 2021: May 27, 2021 AAAI 2022: TBD ICLR 2022: TBD AISTAS 2022: TBD SDM 2022: TBD  SE  ISSTA 2021: Jan 29, 2021 FSE 2021: February 25, 2021 ASE 2021: April 23, 2021 ICSE 2022: September 3, 2021  EC  GECCO 2021: February 4, 2021 IJCNN: February 10, 2021 CEC 2021: February 21, 2021 SMC 2021: April 5, 2021 FOGA 2021: May 7, 2021 SSCI 2021: August 6, 2021   </description>
+    </item>
+    
+    <item>
       <title>IEEE DTEC</title>
       <link>https://example.com/docs/misc/dtec/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -514,6 +494,26 @@ Lorem markdownum insigne. Olympo signis Delphis!</description>
       
       <guid>https://example.com/docs/research/publications/</guid>
       <description>Publications #      hr.dashed { border-top: 1px dashed #bbb; } .grid-container { display: grid; grid-template-columns: 40% 60%; grid-gap: 5px; background-color: transparent; padding: 5px; }   The copyrights of published papers are transferred to publishers. Misuse of any material posted here may result in plagiarism. means equal contribution. + means my current/previous student or visitor. * means equal contribution   To appear #    Vertical Distance-based Clonal Selection Mechanism for the Multiobjective Immune Algorithm</description>
+    </item>
+    
+    <item>
+      <title>Reading Group</title>
+      <link>https://example.com/docs/research/readinggroup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/research/readinggroup/</guid>
+      <description>Reading Group #  The paper reading group meets weekly during the semester to discuss papers. Participation is open to all, guests are always welcome; if you are interested in receiving invitations contact the organizer.   More about our reading group culture &amp;#43;  Each week we will discuss a different paper. The paper to discuss is announced about one week in advance by the organizer. All participants are expected to read the paper before the meeting.</description>
+    </item>
+    
+    <item>
+      <title>Vacancies</title>
+      <link>https://example.com/docs/home/vacancies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/home/vacancies/</guid>
+      <description>Vacancies #  We very much welcome and support applications from underrepresented groups and from people of all shapes, shades, and genders. If you are uncertain about your possible role in our team, please do not hesitate to get in touch with Ke Li.
+PhD There are multiple opportunities available at the University of Exeter to fund your PhD study.
+ China Scholarship Council (Chinese Students): The University of Exeter is proud to offer up to 50 full-time PhD scholarships in collaboration with the China Scholarship Council (CSC).</description>
     </item>
     
   </channel>

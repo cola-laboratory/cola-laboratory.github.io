@@ -153,16 +153,6 @@
   </url>
   
   <url>
-    <loc>https://example.com/docs/home/vacancies/</loc>
-    <lastmod>2021-02-09T23:44:14+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/docs/misc/ddl/</loc>
-    <lastmod>2021-03-04T10:19:12+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://example.com/docs/research/archive_reading/</loc>
     <lastmod>2021-01-31T14:51:37+00:00</lastmod>
   </url>
@@ -247,11 +237,6 @@
   </url>
   
   <url>
-    <loc>https://example.com/docs/research/readinggroup/</loc>
-    <lastmod>2021-03-15T00:01:57+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://example.com/docs/shortcodes/</loc>
     <lastmod>2020-11-28T23:10:45+00:00</lastmod>
   </url>
@@ -322,13 +307,18 @@
   </url>
   
   <url>
+    <loc>https://example.com/docs/misc/ddl/</loc>
+    <lastmod>2021-05-29T22:44:01+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://example.com/docs/</loc>
-    <lastmod>2021-05-28T23:03:09+01:00</lastmod>
+    <lastmod>2021-05-29T22:44:01+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/</loc>
-    <lastmod>2021-05-28T23:37:21+01:00</lastmod>
+    <lastmod>2021-05-29T22:39:06+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -358,7 +348,17 @@
   
   <url>
     <loc>https://example.com/docs/research/publications/</loc>
-    <lastmod>2021-05-28T23:03:09+01:00</lastmod>
+    <lastmod>2021-05-29T22:39:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/docs/research/readinggroup/</loc>
+    <lastmod>2021-05-29T22:44:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/docs/home/vacancies/</loc>
+    <lastmod>2021-05-29T22:39:29+01:00</lastmod>
   </url>
   
 </urlset>
