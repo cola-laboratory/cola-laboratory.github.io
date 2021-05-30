@@ -477,11 +477,7 @@ AI &amp;amp; ML  IJCAI 2021: January 20, 2021 ICML 2021: February 4, 2021 UAI 20
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/docs/home/members/</guid>
-      <description>Members #      hr.dashed { border-top: 1px dashed #bbb; } .grid-container { display: grid; grid-template-columns: 15% 35% 15% 35%; grid-gap: 15px; background-color: transparent; padding: 5px; align-content: left; }   Faculty #   Dr Ke Li (UKRI FLF)
-Senior Lecturer
-Department of Computer Science
-University of Exeter
-          Research Staff(s) #   Dr Jiangjiao Xu</description>
+      <description>Members #      hr.dashed { border-top: 1px dashed #bbb; } .grid-container { display: grid; grid-template-columns: 15% 35% 15% 35%; grid-gap: 15px; background-color: transparent; padding: 5px; align-content: left; }   Lookup table of acronyms in this page. &amp;#43;   EMO: evolutionary multi-objective optimization BO: Bayesian optimization BLO: bi-level optimization MFO: multi-fidelity optimization CO: constrained optimization DO: dynamic optimization TL: transfer learning MTL: multi-task learning LL: life-long learning GP: Gaussian processes SE: software engineering VNF: virtual network functions NLP: natural language processing       Faculty #   Dr Ke Li (UKRI FLF)</description>
     </item>
     
     <item>
@@ -508,7 +504,7 @@ University of Exeter
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/docs/home/vacancies/</guid>
-      <description>Vacancies #  We very much welcome and support applications from underrepresented groups and from people of all shapes, shades, and genders. If you are uncertain about your possible role in our team, please do not hesitate to get in touch with Ke Li.
+      <description>Vacancies #     We very much welcome and support applications from underrepresented groups and from people of all shapes, shades, and genders. If you are uncertain about your possible role in our team, please do not hesitate to get in touch with Ke Li.
 PhD There are multiple opportunities available at the University of Exeter to fund your PhD study.
  China Scholarship Council (Chinese Students): The University of Exeter is proud to offer up to 50 full-time PhD scholarships in collaboration with the China Scholarship Council (CSC).</description>
     </item>
