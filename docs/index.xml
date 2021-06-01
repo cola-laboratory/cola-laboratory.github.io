@@ -268,6 +268,26 @@ AI &amp;amp; ML  IJCAI 2021: January 20, 2021 ICML 2021: February 4, 2021 UAI 20
     </item>
     
     <item>
+      <title>Ke Li</title>
+      <link>https://example.com/docs/research/keli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/research/keli/</guid>
+      <description>Ke Li&amp;rsquo;s Resume #      hr.dashed { border-top: 1px dashed #bbb; } .grid-container { display: grid; grid-template-columns: 40% 60%; grid-gap: 5px; background-color: transparent; padding: 5px; }   Education #   Doctor of Philosophy |  Jan 2015
+ Department of Computer Science, City University of Hong Kong Masters of Engineering |  Jun 2010
+ College of Information and Engineering, Xiangtan University Bachelor of Engineering |  Jun 2007</description>
+    </item>
+    
+    <item>
+      <title>Members</title>
+      <link>https://example.com/docs/home/members/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/home/members/</guid>
+      <description>Members #      hr.dashed { border-top: 1px dashed #bbb; } .grid-container { display: grid; grid-template-columns: 15% 35% 15% 35%; grid-gap: 15px; background-color: transparent; padding: 5px; align-content: left; }   Lookup table of acronyms in this page. &amp;#43;   EMO: evolutionary multi-objective optimization BO: Bayesian optimization BLO: bi-level optimization MFO: multi-fidelity optimization CO: constrained optimization DO: dynamic optimization MCM: Monte Carlo method    LA: landscape analysis TL: transfer learning MTL: multi-task learning LL: life-long learning GP: Gaussian processes NLP: natural language processing SE: software engineering VNF: virtual network functions         Faculty #   Dr Ke Li (UKRI FLF)</description>
+    </item>
+    
+    <item>
       <title>News</title>
       <link>https://example.com/docs/home/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -275,15 +295,6 @@ AI &amp;amp; ML  IJCAI 2021: January 20, 2021 ICML 2021: February 4, 2021 UAI 20
       <guid>https://example.com/docs/home/news/</guid>
       <description>News Archive #  2020 #  Dec   Our paper on Bayesian Network Based Label Correlation Analysis For Multi-label Classifier Chain has been accepted for publication in Information Sciences. Congratulations to my collaborators! Dec 8
   There are multiple openings in our lab for PhD students 2021 entry. The studentships are available for both UK/EU and international students. Please have a look at vacancies and feel free to contact with me for more details.</description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://example.com/docs/home/members/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/docs/home/members/</guid>
-      <description>Members #      hr.dashed { border-top: 1px dashed #bbb; } .grid-container { display: grid; grid-template-columns: 15% 35% 15% 35%; grid-gap: 15px; background-color: transparent; padding: 5px; align-content: left; }   Lookup table of acronyms in this page. &amp;#43;   EMO: evolutionary multi-objective optimization BO: Bayesian optimization BLO: bi-level optimization MFO: multi-fidelity optimization CO: constrained optimization DO: dynamic optimization MCM: Monte Carlo method    LA: landscape analysis TL: transfer learning MTL: multi-task learning LL: life-long learning GP: Gaussian processes NLP: natural language processing SE: software engineering VNF: virtual network functions         Faculty #   Dr Ke Li (UKRI FLF)</description>
     </item>
     
     <item>
