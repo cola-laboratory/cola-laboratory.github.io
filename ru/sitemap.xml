@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>https://example.com/ru/categories/</loc>
     <xhtml:link
@@ -18,7 +19,9 @@
                 hreflang="ru"
                 href="https://example.com/ru/categories/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://example.com/ru/</loc>
     <xhtml:link
                 rel="alternate"
@@ -35,7 +38,9 @@
                 hreflang="ru"
                 href="https://example.com/ru/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://example.com/ru/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -53,4 +58,5 @@
                 href="https://example.com/ru/tags/"
                 />
   </url>
+  
 </urlset>
